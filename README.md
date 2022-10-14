@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm SUHAS V</h1>
 <h3 align="center">| CURRENTLY STUDYING ENGINEERING | AT SRI VENKATESWARA COLLEGE OF ENGINEERING | BENGALURU |</h3>
 
-- 🌱 I’m currently learning **FULL STACK DEVELOPMENT**
+- 🌱 I’m currently learning: **FULL STACK DEVELOPMENT**
 
-- 💬 Ask me about **FULL STACK DEVLOPMENT RESOURCES**
+- 💬 Ask me about: **FULL STACK DEVLOPMENT RESOURCES**
 
-- 📫 How to reach me **suhasvishwanath62@gmail.com**
+- 📫 How to reach me: **suhasvishwanath62@gmail.com**
 
-- ⚡ Fun fact **My dreams will be like i am Full stack devloper**
+- ⚡ Fun fact: **My dreams will be like i am Full stack devloper**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
