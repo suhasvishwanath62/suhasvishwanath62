@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm SUHAS V</h1>
-<h3 align="center">| CURRENTLY STUDYING ENGINEERING | AT Sri Venkateshwara College of Engineering |</h3>
+<h3 align="center"> Currently Studying Information Science and Engineering | At Sri Venkateshwara College of Engineering |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhasvishwanath62&label=Profile%20views&color=0e75b6&style=flat" alt="suhasvishwanath62" /> </p>
 
-- 💬 Ask me about **Software development**
+- 💬 Ask me about **Web Development **
 
 - 📫 How to reach me **suhasvishwanath62@gmail.com**
 
-- ⚡ Fun fact **My dreams will be like i am Software developer**
+- ⚡ Fun fact **My dreams will be like i am Full Stack Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
