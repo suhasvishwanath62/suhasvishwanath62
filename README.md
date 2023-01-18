@@ -1,5 +1,5 @@
 <h1 align="center"><SWE> SUHAS V</h1>
-<h3 align="center"><Focusing into the Technical Stuff></h3>
+<h3 align="center">|Focusing into the Technical Stuff|</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhasvishwanath62&label=Profile%20views&color=0e75b6&style=flat" alt="suhasvishwanath62" /> </p>
 
